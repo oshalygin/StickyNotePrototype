@@ -1,16 +1,19 @@
 .flip {
-    transform:rotateY(180deg);
-    position: absolute;
-    top: 150;
-    left: 150;
-
     transition: 0.6s;
 	transform-style: preserve-3d;
-
-	position: relative;
-       background-color: #3498db
+    background-color: #3498db !important;
+    -webkit-transform: translate(-50%, -50%) rotateY(360deg);
+    -moz-transform: translate(-50%, -50%) rotateY(360deg);
+    -ms-transform: translate(-50%, -50%) rotateY(360deg);
+    -o-transform: translate(-50%, -50%) rotateY(360deg);
+    transform: translate(-50%, -50%) rotateY(360deg);
 }
 
-.back {
-   background-color: #3498db
+.centered {
+    position: absolute !important;
+    left: 50% !important;
+    right: 50% !important;
+    width    : 300px !important;
+    height   : 300px !important;
+
 }
