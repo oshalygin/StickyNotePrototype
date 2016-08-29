@@ -1,0 +1,7 @@
+{
+  "name": "sticky-note-prototype",
+  "dependencies": {},
+  "globalDevDependencies": {
+    "jquery": "registry:dt/jquery#1.10.0+20160704162008"
+  }
+}
