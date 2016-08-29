@@ -1,0 +1,30 @@
+{
+  "name": "sticky-note-prototype",
+  "version": "1.0.0",
+  "description": "a basic jquery application",
+  "main": "index.js",
+  "dependencies": {
+    "postitall": "^1.0.8"
+  },
+  "devDependencies": {
+    "jquery": "^3.1.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oshalygin/StickyNotePrototype.git"
+  },
+  "keywords": [
+    "jquery",
+    "sticky",
+    "notes"
+  ],
+  "author": "oshalygin@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oshalygin/StickyNotePrototype/issues"
+  },
+  "homepage": "https://github.com/oshalygin/StickyNotePrototype#readme"
+}
