@@ -78,4 +78,5 @@ $(document).ready(function () {
         onDelete: function (id) { return undefined; }                   //Triggered when a note is deleted
     };
 
+
 });
